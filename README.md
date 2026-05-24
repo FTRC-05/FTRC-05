@@ -10,7 +10,7 @@ My approach to technology is rooted in a core belief: *A profession is more than
 
 * **Mobile Development:** Flutter, Dart
 * **Backend & Cloud Services:** Firebase (Firestore, Authentication, Cloud Functions)
-* **Development Environment:** macOS, Xcode, iOS, Android Studio 
+* **Development Environment:** VScode, Xcode, Android Studio
 * **Version Control & Collaboration:** Git, GitHub
 * **Web Fundamentals:** HTML, CSS, JavaScript
 
