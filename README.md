@@ -14,7 +14,7 @@ My approach to technology is rooted in a core belief: *A profession is more than
 * **Version Control & Collaboration:** Git, GitHub
 * **Web Fundamentals:** HTML, CSS, JavaScript
 
-### 🚀 Experience & Highlights
+### Experience & Highlights
 
 * **Cross-Platform Engineering:** Experience managing widget implementation, state management in Flutter to deliver native-like experiences on mobile devices.
 * **Backend Integration:** Proficient in designing and deploying serverless backends using Firebase to handle authentication, real-time database updates, and cloud functions.
