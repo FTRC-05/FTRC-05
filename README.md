@@ -2,7 +2,7 @@
 
 ### Software Engineer | Cross-Platform Mobile Developer
 
-I am a Software Engineer specializing in building seamless, high-performance cross-platform mobile applications. My development focus is on creating scalable solutions that solve real-world problems.
+I am a Software Engineering Student specializing in building seamless, cross-platform mobile applications. My development focus is on creating scalable solutions that solve real-world problems.
 
 My approach to technology is rooted in a core belief: *A profession is more than just a job — it is a career that requires special skills and education, and involves serving people while following ethical rules.* This philosophy drives my commitment to clean code, robust architecture, and user-centric design.
 
@@ -20,6 +20,7 @@ My approach to technology is rooted in a core belief: *A profession is more than
 * **Backend Integration:** Proficient in designing and deploying serverless backends using Firebase to handle authentication, real-time database updates, and cloud functions.
 * **Industry Experience:** Gained hands-on professional experience during my software engineering internship at Neo Cloud Technologies.
 * **Future Trajectory:** Continuously expanding my engineering toolkit while preparing for future post-graduate specialization in Cybersecurity Engineering or Masters in Software Engineering.
+* Web Development: Proficient in designing web applications using HTML, CSS and JavaScript
 
 ### 📫 Let's Connect
 
